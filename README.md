@@ -24,8 +24,11 @@ Feel free to connect with me through:
 
 🔗 LinkedIn: https://www.linkedin.com/in/vasundhara-boominathan/
 
+<h4> My Skills: </h4>
+<p>
 
-<p style="display: inline-block;">
+</p>
+<p align="center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,html,css,js,mysql,mongodb,sqlite,opencv,arduino,bootstrap,flask,github,eclipse,vscode,figma&theme=light,codepen" />
   </a>
