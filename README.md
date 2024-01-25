@@ -16,10 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-##Hello, I'm Vasundhara B, currently in my 3rd year of B.Tech IT at SSN College of Engineering. Passionate about coding and technology, I enjoy exploring innovative solutions and turning ideas into reality.🚀 Eager to contribute and learn in the ever-evolving world of IT. Let's connect and explore the possibilities together!🤝
+Hello, I'm Vasundhara B, currently in my 3rd year of B.Tech IT at SSN College of Engineering. Passionate about coding and technology, I enjoy exploring innovative solutions and turning ideas into reality.🚀 Eager to contribute and learn in the ever-evolving world of IT. Let's connect and explore the possibilities together!🤝
 
 Feel free to connect with me through:
 
 📧 Email: vasundharaboomi@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/vasundhara-boominathan/
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,mysql,mongodb,sqlite,opencv,arduino,bootstrap,flask,github,eclipse,vscode,figma&theme=light" />
+  </a>
+</p>
