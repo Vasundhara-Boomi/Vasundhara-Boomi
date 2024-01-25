@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hello, I'm Vasundhara B, currently in my 3rd year of B.Tech IT at SSN College of Engineering. Passionate about coding and technology, I enjoy exploring innovative solutions and turning ideas into reality.🚀 Eager to contribute and learn in the ever-evolving world of IT. Let's connect and explore the possibilities together!🤝
+##Hello, I'm Vasundhara B, currently in my 3rd year of B.Tech IT at SSN College of Engineering. Passionate about coding and technology, I enjoy exploring innovative solutions and turning ideas into reality.🚀 Eager to contribute and learn in the ever-evolving world of IT. Let's connect and explore the possibilities together!🤝
 
 Feel free to connect with me through:
 
