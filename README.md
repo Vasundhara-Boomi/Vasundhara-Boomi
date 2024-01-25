@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hello, I'm Vasundhara B, currently in my 3rd year of B.Tech IT at SSN College of Engineering. Passionate about coding and technology, I enjoy exploring innovative solutions and turning ideas into reality.🚀 Eager to contribute and learn in the ever-evolving world of IT. Let's connect and explore the possibilities together!🤝
+
+Feel free to connect with me through:
+📧 Email: vasundharaboomi@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/vasundhara-boominathan/
