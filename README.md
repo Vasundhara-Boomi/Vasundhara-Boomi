@@ -25,7 +25,7 @@ Feel free to connect with me through:
 🔗 LinkedIn: https://www.linkedin.com/in/vasundhara-boominathan/
 
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,html,css,js,mysql,mongodb,sqlite,opencv,arduino,bootstrap,flask,github,eclipse,vscode,figma&theme=light" />
   </a>
